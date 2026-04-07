@@ -47,12 +47,12 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LindungiLw&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LindungiLw&theme=dark&hide_border=false" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LindungiLw&theme=dark&hide_border=false&v=1" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=LindungiLw&theme=dark&hide_border=false" alt="Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindungiLw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindungiLw&theme=dark&hide_border=false&layout=compact&v=1" alt="Top Languages" />
 </div>
 
 ---
