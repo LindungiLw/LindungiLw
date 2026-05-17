@@ -8,10 +8,10 @@
 ---
 
 ## 👨‍💻 Tentang Saya
-* 🔭 Saat ini sedang fokus mengerjakan **[Nama Proyekmu di sini]**
+* 🔭 Saat ini sedang fokus mengerjakan **Mobile And Website**
 * 🌱 Saat ini sedang memperdalam **Next.js & Flutter**
 * 👯 Terbuka untuk berkolaborasi dalam proyek **Web dan Mobile Development**
-* 📫 Cara menghubungi saya: **[Email atau Link LinkedIn kamu]**
+* 📫 Cara menghubungi saya: **https://www.linkedin.com/in/rahma-lindungi-laowo-4aa49a349/**
 
 ---
 
