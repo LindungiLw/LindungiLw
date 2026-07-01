@@ -1,60 +1,73 @@
-<h1 align="center">Halo, Selamat Datang di Profil Saya! 👋</h1>
-<h3 align="center">Seorang developer yang antusias membangun sesuatu yang luar biasa.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=80&lines=Halo,+Selamat+Datang+di+Profil+Saya!+%F0%9F%91%8B" alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=808080&center=true&vCenter=true&width=700&height=40&lines=Seorang+developer+yang+antusias...;Membangun+sesuatu+yang+luar+biasa!" alt="Subtitle" />
+  <br>
+  <a href="https://github.com/LindungiLw">
+    <img src="https://komarev.com/ghpvc/?username=LindungiLw&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LindungiLw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%">
+</div>
 
 ## 👨‍💻 Tentang Saya
+
+<a href="https://github.com/LindungiLw">
+  <img align="right" width="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+</a>
+
 * 🔭 Saat ini sedang fokus mengerjakan **Mobile And Website**
 * 🌱 Saat ini sedang memperdalam **Next.js & Flutter**
 * 👯 Terbuka untuk berkolaborasi dalam proyek **Web dan Mobile Development**
-* 📫 Cara menghubungi saya: **https://www.linkedin.com/in/rahma-lindungi-laowo-4aa49a349/**
+* 📫 Cara menghubungi saya: [**LinkedIn Saya**](https://www.linkedin.com/in/rahma-lindungi-laowo-4aa49a349/)
 
----
+<br clear="all">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%">
+</div>
 
 ## 🛠️ Tech Stack & Alat
 
 <p align="center">
   <strong>Desain & UI</strong><br>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </p>
 
 <p align="center">
   <strong>Frontend Web</strong><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" alt="Frontend" />
 </p>
 
 <p align="center">
   <strong>Mobile Development</strong><br>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Mobile" />
 </p>
 
 <p align="center">
   <strong>Backend & CMS</strong><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://skillicons.dev/icons?i=java,php,wordpress" alt="Backend" />
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%">
+</div>
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.koyeb.app/api?username=LindungiLw&theme=dark&hide_border=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=LindungiLw&theme=dark&hide_border=false" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LindungiLw&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=LindungiLw&theme=radical&hide_border=false" alt="Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.koyeb.app/api/top-langs/?username=LindungiLw&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindungiLw&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
----
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%">
+</div>
 
 ## 💡 Random Dev Quote
 <p align="center">
