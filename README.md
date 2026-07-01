@@ -19,7 +19,7 @@
 </a>
 
 * 🔭 Saat ini sedang fokus mengerjakan **Mobile And Website**
-* 🌱 Saat ini sedang memperdalam **Next.js & Flutter**
+* 🌱 Saat ini sedang memperdalam **AI Engineer Production**
 * 👯 Terbuka untuk berkolaborasi dalam proyek **Web dan Mobile Development**
 * 📫 Cara menghubungi saya: [**LinkedIn Saya**](https://www.linkedin.com/in/rahma-lindungi-laowo-4aa49a349/)
 
@@ -57,12 +57,12 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LindungiLw&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LindungiLw&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=LindungiLw&theme=radical&hide_border=false" alt="Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindungiLw&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LindungiLw&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
