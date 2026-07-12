@@ -54,12 +54,13 @@
 ## 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LindungiLw&theme=radical&hide_border=false&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=LindungiLw&theme=radical&hide_border=false" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=LindungiLw&theme=radical&hide_border=false&border_radius=6" alt="Streak" />
 </div>
 <br/>
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LindungiLw&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
+
 
 ## 💡 Random Dev Quote
 <p align="center">
