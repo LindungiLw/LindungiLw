@@ -19,7 +19,6 @@
 </a>
 
 * 🔭 Mahasiswa Sistem Informasi yang fokus membangun produk web full-stack
-* ⚡ Terbaru: **JIUnity**, aplikasi kampus & asrama (Next.js · TypeScript · Prisma · PostgreSQL)
 * 🌱 Sedang memperdalam **AI product engineering**
 * 👯 Terbuka untuk kolaborasi proyek **web dan produk digital**
 * 📫 Hubungi saya: [**LinkedIn**](https://www.linkedin.com/in/rahma-lindungi-laowo-4aa49a349/)
