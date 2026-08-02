@@ -18,10 +18,10 @@
   <img align="right" width="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 </a>
 
-* 🔭 Mahasiswa Sistem Informasi yang fokus membangun produk web full-stack
-* 🌱 Sedang memperdalam **AI product engineering**
-* 👯 Terbuka untuk kolaborasi proyek **web dan produk digital**
-* 📫 Hubungi saya: [**LinkedIn**](https://www.linkedin.com/in/rahma-lindungi-laowo-4aa49a349/)
+- 🔭 Mahasiswa Sistem Informasi yang fokus membangun produk web full-stack
+- 🌱 Sedang memperdalam **AI product engineering**
+- 👯 Terbuka untuk kolaborasi proyek **web dan produk digital**
+- 📫 Hubungi saya: [**LinkedIn**](https://www.linkedin.com/in/rahma-lindungi-laowo-4aa49a349/)
 
 <br clear="all"/>
 
@@ -51,6 +51,7 @@
 </div>
 
 ## 📊 GitHub Analytics
+
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LindungiLw&theme=radical&hide_border=false&show_icons=true&count_private=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=LindungiLw&theme=radical&hide_border=false&border_radius=6" alt="Streak" />
@@ -60,8 +61,20 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LindungiLw&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
-
 ## 💡 Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%">
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LindungiLw/LindungiLw/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LindungiLw/LindungiLw/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/LindungiLw/LindungiLw/output/github-snake.svg" />
+  </picture>
+</div>
