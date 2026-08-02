@@ -33,12 +33,14 @@
 
 <p align="center">
   <strong>Bahasa & Framework</strong><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,java,dart,flutter" alt="Languages & Frameworks" />
 </p>
 
 <p align="center">
   <strong>Database & Deployment</strong><br>
   <img src="https://skillicons.dev/icons?i=prisma,postgres,vercel,git,github" alt="Database & Deployment" />
+  <br>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
 </p>
 
 <p align="center">
