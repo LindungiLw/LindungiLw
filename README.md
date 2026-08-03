@@ -42,7 +42,7 @@
 
 <div align="center">
   <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LindungiLw&theme=radical&hide_border=true&hide_title=true&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <img height="140" src="https://streak-stats.demolab.com/?user=LindungiLw&theme=radical&hide_border=true&border_radius=8" alt="Streak" />
+  <img height="140" src="https://streak-stats.demolab.com/?user=LindungiLw&theme=radical&hide_border=true&border_radius=8&mode=daily" alt="Streak" />
   <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LindungiLw&theme=radical&hide_border=true&hide_title=true&layout=compact&langs_count=6" alt="Top Languages" />
 </div>
 
