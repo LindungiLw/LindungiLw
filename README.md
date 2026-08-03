@@ -15,7 +15,7 @@
 ## 👨‍💻 Tentang Saya
 
 <a href="https://github.com/LindungiLw">
-  <img align="right" width="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+  <img align="right" width="220" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 </a>
 
 - 🔭 Mahasiswa Sistem Informasi yang fokus membangun produk web full-stack
@@ -25,42 +25,25 @@
 
 <br clear="all"/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%">
-</div>
-
 ## 🛠️ Tech Stack & Alat
 
 <p align="center">
   <strong>Bahasa & Framework</strong><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,java,dart,flutter" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,java,dart,flutter&perline=11" alt="Languages & Frameworks" />
 </p>
 
 <p align="center">
-  <strong>Database & Deployment</strong><br>
-  <img src="https://skillicons.dev/icons?i=prisma,postgres,vercel,git,github" alt="Database & Deployment" />
-  <br>
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <strong>Database, Deployment & Desain</strong><br>
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,vercel,git,github,figma&perline=6" alt="Tools" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" height="38" />
 </p>
-
-<p align="center">
-  <strong>Desain</strong><br>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%">
-</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LindungiLw&theme=radical&hide_border=false&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=LindungiLw&theme=radical&hide_border=false&border_radius=6" alt="Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LindungiLw&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LindungiLw&theme=radical&hide_border=true&hide_title=true&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img height="140" src="https://streak-stats.demolab.com/?user=LindungiLw&theme=radical&hide_border=true&border_radius=8" alt="Streak" />
+  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LindungiLw&theme=radical&hide_border=true&hide_title=true&layout=compact&langs_count=6" alt="Top Languages" />
 </div>
 
 ## 💡 Random Dev Quote
