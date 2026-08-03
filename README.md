@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=80&lines=Halo,+Selamat+Datang+di+Profil+Saya!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=950&height=90&lines=Halo,+Selamat+Datang+di+Profil+Saya!+%F0%9F%91%8B" alt="Typing SVG" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=808080&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+AI+Product+Engineer;Membangun+produk+nyata+yang+dipakai+orang" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=808080&center=true&vCenter=true&width=950&height=45&lines=Full-Stack+AI+Product+Engineer;Membangun+produk+nyata+yang+dipakai+orang" alt="Subtitle" />
   <br>
   <a href="https://github.com/LindungiLw">
     <img src="https://komarev.com/ghpvc/?username=LindungiLw&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
