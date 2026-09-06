@@ -12,32 +12,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%">
 </div>
 
-## 👨‍💻 Tentang Saya
-
-<a href="https://github.com/LindungiLw">
-  <img align="right" width="220" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
-</a>
-
-- 🔭 Mahasiswa Sistem Informasi yang fokus membangun produk web full-stack
-- 🌱 Sedang memperdalam **AI product engineering**
-- 👯 Terbuka untuk kolaborasi proyek **web dan produk digital**
-- 📫 Hubungi saya: [**LinkedIn**](https://www.linkedin.com/in/rahma-lindungi-laowo-4aa49a349/)
-
-<br clear="all"/>
-
-## 🛠️ Tech Stack & Alat
-
-<p align="center">
-  <strong>Bahasa & Framework</strong><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,java,dart,flutter&perline=11" alt="Languages & Frameworks" />
-</p>
-
-<p align="center">
-  <strong>Database, Deployment & Desain</strong><br>
-  <img src="https://skillicons.dev/icons?i=prisma,postgres,vercel,git,github,figma&perline=6" alt="Tools" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" height="38" />
-</p>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
