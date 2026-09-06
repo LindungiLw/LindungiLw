@@ -12,15 +12,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Divider" width="100%">
 </div>
 
-## 📊 GitHub Analytics
-
 <div align="center">
   <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LindungiLw&theme=radical&hide_border=true&hide_title=true&show_icons=true&count_private=true" alt="GitHub Stats" />
   <img height="140" src="https://streak-stats.demolab.com/?user=LindungiLw&theme=radical&hide_border=true&border_radius=8&mode=daily" alt="Streak" />
   <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LindungiLw&theme=radical&hide_border=true&hide_title=true&layout=compact&langs_count=6" alt="Top Languages" />
 </div>
-
-## 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
